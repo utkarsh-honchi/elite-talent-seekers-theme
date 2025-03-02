@@ -18,6 +18,6 @@ jobs:
         with:
           server: 217.21.94.73  # Your Hostinger FTP server
           username: u832836407.elitetalentseekers.com  # Your FTP username
-          password: =Vn6+92t?uBXCBQq  # Use GitHub Secrets for security
+          password: Simple@123  # Use GitHub Secrets for security
           local-dir: ./
           server-dir: /public_html/wp-content/themes/elite-talent-seekers/
